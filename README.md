@@ -1,16 +1,21 @@
-## Hi there 👋
+## ･°˖✧◝ About Me ◜✧˖°.
 
-<!--
-**jmartellet/jmartellet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I help companies trust their own data and turn it into decisions that grow the business.<br>I've worked in Digital Analytics for 8+ years, from event tracking to executive dashboards. My work sits at the bridge between Product, Growth, Engineering and Business, combining Product Analytics, Business Intelligence and applied AI.<br>Today I lead data governance and measurement frameworks for marketing and growth: I define what to measure, run tracking QA and validation in Google Tag Manager, and integrate multiple sources so Product and Tech work from a single source of truth.<br><br>Built end-to-end tracking for the WhatsApp funnel, giving Product, Sales and Marketing a 360° customer view. It became a case study in Google's official newsletter.<br>Led the Universal Analytics → GA4 migration with no measurement downtime and full governance throughout the transition.<br>Led the Innovation & Applied AI Squad: set the AI roadmap, validated PoCs, trained cross-functional teams and brought automation and AI-first workflows into daily operations.<br><br>Using this GitHub to document my studies and analytics projects
 
-Here are some ideas to get you started:
+## ･°˖✧◝ Socials ◜✧˖°.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/julianamartellet)
+
+## ･°˖✧◝ Tech Stack ◜✧˖°.
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=FF61F6) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
+
+## ･°˖✧◝ Contributions ◜✧˖°.
+
+<picture data-importer="pacman"> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jmartellet/jmartellet/pacman-output/breakout-contribution-graph-dark.svg?game=breakout"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jmartellet/jmartellet/pacman-output/breakout-contribution-graph.svg?game=breakout"> <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/jmartellet/jmartellet/pacman-output/breakout-contribution-graph.svg?game=breakout"> </picture>
+
+## ･°˖✧◝ On Repeat ◜✧˖°.
+
+<img src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=meeeeeeeeoow&username=0&accent_color=157375&loved_color=0d3a3b&logo_color=17d0d3" alt="Last.fm recently played" width="500">
+
+(◡◕⏖◕)ᑐ🝐 ⠁⭒*.✩.*⭒⠁
