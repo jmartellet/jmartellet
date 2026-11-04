@@ -14,8 +14,14 @@ I help companies trust their own data and turn it into decisions that grow the b
 
 <picture data-importer="pacman"> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jmartellet/jmartellet/pacman-output/breakout-contribution-graph-dark.svg?game=breakout"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jmartellet/jmartellet/pacman-output/breakout-contribution-graph.svg?game=breakout"> <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/jmartellet/jmartellet/pacman-output/breakout-contribution-graph.svg?game=breakout"> </picture>
 
-## ･°˖✧◝ On Repeat ◜✧˖°.
+## ･°˖✧◝ Projects ◜✧˖°.
+**[AI Opportunity Prioritizer](https://github.com/jmartellet/prioritizer-framework)** ✧ Framework para priorizar iniciativas de IA em 5 dimensões, com score ponderado, radar de valor, exportação para Jira e parecer estratégico com Gemini.
 
+[![Testar o app](https://img.shields.io/badge/▶_Testar_o_app-Live_demo-e0337a?style=for-the-badge)](https://jmartellet.github.io/prioritizer-framework/)
+
+
+
+## ･°˖✧◝ On Repeat ◜✧˖°.
 <img src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=meeeeeeeeoow&username=0&accent_color=157375&loved_color=0d3a3b&logo_color=17d0d3" alt="Last.fm recently played" width="500">
 
 (◡◕⏖◕)ᑐ🝐 ⠁⭒*.✩.*⭒⠁
